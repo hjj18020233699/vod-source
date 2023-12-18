@@ -84,4 +84,8 @@
         "name": "四圈资源",
         "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
     }
+    {
+        "name": "小雅",
+        "api": "http://holmes.love:4567/vod/"
+    }
 ]
